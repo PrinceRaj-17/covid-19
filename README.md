@@ -11,8 +11,7 @@ Some basic commands for this App are:
 
 You can easily modify or add new funtions to this App and this is Base through which you can add them.
 
-Note:- This program is created via API from PareHub server. So, API Informations will be different
-	for you.
+Note:- This program has my API info created via PareHub on its server. You can create new API info or use mine if it works.
 
                                                   Thank You!
 
