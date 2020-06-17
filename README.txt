@@ -11,6 +11,7 @@ Some basic commands for this App are:
 
 You can easily modify or add new funtions to this App and this is Base through which you can add them.
 
-                                                                  Thank You!
+                                                  Thank You!
 
-						-Prince Rajbhar
+														
+														-Prince Rajbhar
