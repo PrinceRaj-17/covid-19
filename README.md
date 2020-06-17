@@ -1,6 +1,6 @@
 About This App:
 
-This App take command of get data of CoronaVirus Cases from you and fetch data from site https://www.worldometers.info/coronavirus/
+This App take command on data of CoronaVirus Cases from you and fetch data from site https://www.worldometers.info/coronavirus/
 and speak the data for you.
 Some basic commands for this App are:
 1) "how many total cases"
